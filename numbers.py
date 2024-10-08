@@ -97,7 +97,7 @@
 # email = input('Emailingiz nima: ')
 # manzil = input('Manizlingiz qayer: ')
 #
-# obshi = ism, fam, email, manzil
+# full= ism, fam, email, manzil
 # print(obshi)
 
 
